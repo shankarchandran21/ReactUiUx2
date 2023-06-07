@@ -75,7 +75,7 @@
 
 
 @media screen and (max-width: 650px) {
-    .app__aboutus-0verlay img{
+    .app__aboutus-overlay img{
         width: 80%;
         height: 320px;
 
